@@ -12,8 +12,8 @@
 - Android SDK <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/android.png" alt="android" width="20" height="20"/>
 
 ## Clubs and Organizations
-- Google Developers Group Seattle
-- ACM UWB
+- Google Developers Group Seattle <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/GDG.png" alt="GDG" width="20" height="20"/>
+- ACM UWB <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/ACM.png" alt="ACM" width="20" height="20"/>
 
 
 
