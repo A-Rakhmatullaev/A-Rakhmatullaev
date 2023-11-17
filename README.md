@@ -2,7 +2,7 @@
 
 
 
-## Akbarbek Rakhmatullaev
+# Akbarbek Rakhmatullaev
 #### Hi, I'm a graduate student at University of Washington majoring in Computer Science, and I'm an Android Engineer
 
 ## Languages and Tools
