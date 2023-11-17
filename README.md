@@ -6,10 +6,10 @@
 #### Android Engineer
 
 ## Skills
-- Kotlin (https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/kotlin.png)
-- Java (https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/java.png)
-- Groovy (https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/groovy.png)
-- Android SDK (https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/android.png)
+- Kotlin ![Kotlin](https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/kotlin.png)
+- Java ![Java](https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/java.png)
+- Groovy ![Groovy](https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/groovy.png)
+- Android SDK ![SDK](https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/android.png)
 
 
 
