@@ -1,4 +1,4 @@
-![I am Android Engineer](https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/friday.png)
+![I am Android Engineer](https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/friday.png)
 # Software Engineer - Android Developer
 
 
