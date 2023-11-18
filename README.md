@@ -10,7 +10,7 @@
 - Java <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/java.png" alt="java" width="16" height="21"/>
 - Groovy <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/groovy.png" alt="groovy" width="25" height="20"/>
 - Android SDK <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/android.png" alt="android" width="20" height="20"/>
-- Android NDK <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/NDK.png" alt="NDK" width="20" height="20"/>
+- Android NDK <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/NDK.png" alt="NDK" width="18" height="20"/>
 
 ## Clubs and Organizations
 - Google Developer Groups Seattle <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/GDG.png" alt="GDG" width="24" height="12"/>
