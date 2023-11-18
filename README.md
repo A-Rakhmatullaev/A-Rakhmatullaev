@@ -14,7 +14,7 @@
 ## Clubs and Organizations
 - Google Developer Groups Seattle <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/GDG.png" alt="GDG" width="24" height="12"/>
 - ACM UWB <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/ACM.png" alt="ACM" width="20" height="20"/>
-- IEEE UWB <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/ACM.png" alt="IEEE" width="20" height="20"/>
+- IEEE UWB <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/IEEE.png" alt="IEEE" width="20" height="20"/>
 
 
 
