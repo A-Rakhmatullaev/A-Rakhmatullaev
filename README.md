@@ -17,7 +17,6 @@
 - ACM UWB <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/ACM.png" alt="ACM" width="20" height="20"/>
 - IEEE UWB <img src="https://github.com/A-Rakhmatullaev/A-Rakhmatullaev/blob/main/IEEE.png" alt="IEEE" width="20" height="20"/>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="akbarbek-rakhmatullaev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/akbarbek-rakhmatullaev?trk=profile-badge">Akbarbek Rakhmatullaev</a></div>
               
 
